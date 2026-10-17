@@ -1,0 +1,30 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/1yoas3q7maxpw.js"
+3:I[2971,["$2"],"Header"]
+4:I[39756,["$2"],"default"]
+5:I[37457,["$2"],"default"]
+e:I[22016,["$2"],""]
+f:I[97367,["$2"],"OutletBoundary"]
+10:"$Sreact.suspense"
+13:"ViewportBoundary"
+14:I[97367,["$2"],"$13"]
+15:"MetadataBoundary"
+16:I[97367,["$2"],"$15"]
+:HL["/_next/static/chunks/02wl7w9l5qoj3.css","style"]
+7:X
+a:X
+a:C
+d:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","section",null,{"className":"wrap project-page","children":[["$","$Le",null,{"href":"/projects","className":"back-link","children":"← All projects"}],["$","div",null,{"className":"project-hero lilac","children":[["$","p",null,{"className":"project-kicker","children":["02"," / ","RAG & LLM engineering"]}],["$","h1",null,{"children":"Nimde — Local Research Assistant"}],["$","p",null,{"children":"A local-first assistant for exploring academic papers through source-grounded answers."}],["$","span",null,{"className":"corner-shape"}]]}],["$","div",null,{"className":"project-details","children":[["$","section",null,{"children":[["$","p",null,{"className":"eyebrow","children":"OVERVIEW"}],["$","p",null,{"children":"Nimde helps researchers work through academic papers by generating paper briefs, building literature matrices, and answering questions grounded in retrieved sources."}]]}],["$","section",null,{"children":[["$","p",null,{"className":"eyebrow","children":"MY CONTRIBUTION"}],["$","p",null,{"children":"Team Lead and AI Engineering Lead: query processing, prompt construction, LLM integration, retrieval testing, and evaluation."}]]}],["$","section",null,{"children":[["$","p",null,{"className":"eyebrow","children":"TOOLS & METHODS"}],["$","div",null,{"className":"tag-list","children":[["$","span","Python",{"children":"Python"}],["$","span","Ollama",{"children":"Ollama"}],["$","span","ChromaDB",{"children":"ChromaDB"}],["$","span","Embeddings",{"children":"Embeddings"}],["$","span","RAG",{"children":"RAG"}]]}]]}],["$","section",null,{"children":[["$","p",null,{"className":"eyebrow","children":"EVALUATION"}],["$","div",null,{"className":"metric-row","children":[["$","div","Recall@5",{"children":[["$","strong",null,{"children":"95.6%"}],["$","span",null,{"children":"Recall@5"}]]}],["$","div","Mean reciprocal rank",{"children":[["$","strong",null,{"children":"0.847"}],["$","span",null,{"children":"Mean reciprocal rank"}]]}]]}]]}]]}],["$","div",null,{"className":"project-actions","children":[["$","span",null,{"className":"project-link muted-link","children":"Repository link coming soon"}],"$undefined"]}]]}],null,["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]]}],"p":"$@12","v":null,"s":"$7"}}]]
+b:[["children",{"s":{"n":"slug","t":"d","k":"nimde-research-assistant","s":[]},"h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@c","v":"$a","s":"$7"},"c":"$Qd"}]]
+8:[["children",{"s":"projects","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@9","v":"$a","s":"$7"},"c":"$Qb"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/02wl7w9l5qoj3.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/1yoas3q7maxpw.js","async":true}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","div",null,{"className":"page-shell","children":[["$","$L3",null,{}],["$","main",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}],["$","footer",null,{"className":"site-footer","children":[["$","p",null,{"children":["© ",2026," Dainty. Built with care."]}],["$","div",null,{"className":"footer-links","children":[["$","a",null,{"href":"https://github.com/your-github-username","target":"_blank","rel":"noreferrer","children":"GitHub"}],["$","a",null,{"href":"https://linkedin.com/in/your-linkedin-username","target":"_blank","rel":"noreferrer","children":"LinkedIn"}]]}]]}]]}]}]}]]}],"p":"$@6","v":null,"s":"$7"},"c":"$Q8"},"h":{"r":["$","$1","h",{"children":[null,["$","$L14",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L16",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$10",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Dainty | AI Engineering & Data Science"}],["$","meta","1",{"name":"description","content":"Dainty's AI engineering and data science portfolio."}]]}]}],null]}],null]}],"p":"$@17","v":null,"s":"$7"}},"a":"$@18","u":"$@19","b":"zD06aZvMBe2GRm0pG3Gdi"}
+11:null
+7:300
+19:true
+7:C
+18:0
+c:"$undefined"
+9:"$undefined"
+6:"$undefined"
+17:"$undefined"
+12:"$undefined"
