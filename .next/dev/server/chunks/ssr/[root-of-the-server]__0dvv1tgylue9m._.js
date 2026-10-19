@@ -46,7 +46,7 @@ function AboutPage() {
                 className: "about-text",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                        children: "My work sits at the meeting point of data, technology, and human questions. With a background in Demography and Social Statistics, I am drawn to systems that turn information into clearer, more useful decisions."
+                        children: "My work sits at the meeting point of data, technology, and human questions. With a background in Demography and Statistics, I am drawn to systems that turn information into clearer, more useful decisions."
                     }, void 0, false, {
                         fileName: "[project]/src/app/about/page.tsx",
                         lineNumber: 2,
@@ -57,24 +57,24 @@ function AboutPage() {
                     }, void 0, false, {
                         fileName: "[project]/src/app/about/page.tsx",
                         lineNumber: 2,
-                        columnNumber: 416
+                        columnNumber: 409
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                         children: "Beyond technical work, I value learning in community and supporting others as they grow."
                     }, void 0, false, {
                         fileName: "[project]/src/app/about/page.tsx",
                         lineNumber: 2,
-                        columnNumber: 628
+                        columnNumber: 621
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                         className: "button",
-                        href: "/assets/Dainty-CV.pdf",
+                        href: "/assets/Owoeye%20Olajumoke%E2%80%99s%20CV.docx",
                         target: "_blank",
                         children: "View my CV ↗"
                     }, void 0, false, {
                         fileName: "[project]/src/app/about/page.tsx",
                         lineNumber: 2,
-                        columnNumber: 723
+                        columnNumber: 716
                     }, this)
                 ]
             }, void 0, true, {
@@ -91,7 +91,7 @@ function AboutPage() {
                     }, void 0, false, {
                         fileName: "[project]/src/app/about/page.tsx",
                         lineNumber: 2,
-                        columnNumber: 843
+                        columnNumber: 861
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         children: [
@@ -108,18 +108,18 @@ function AboutPage() {
                             }, tool, false, {
                                 fileName: "[project]/src/app/about/page.tsx",
                                 lineNumber: 2,
-                                columnNumber: 1002
+                                columnNumber: 1020
                             }, this))
                     }, void 0, false, {
                         fileName: "[project]/src/app/about/page.tsx",
                         lineNumber: 2,
-                        columnNumber: 882
+                        columnNumber: 900
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/about/page.tsx",
                 lineNumber: 2,
-                columnNumber: 812
+                columnNumber: 830
             }, this)
         ]
     }, void 0, true, {

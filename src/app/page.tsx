@@ -11,7 +11,7 @@ export default function Home() {
           
           <h1>I build systems where data, curiosity, and impact meet.</h1>
           <p className="hero-description">I’m Prestige—an emerging AI engineer and data professional exploring practical machine learning, research tools, and responsible intelligent systems.</p>
-          <div className="hero-actions"><Link className="button" href="/projects">See selected work</Link><a className="arrow-link" href="/assets/Owoeye Olajumoke's CV.docx" target="_blank">View CV <span>↗</span></a></div>
+          <div className="hero-actions"><Link className="button" href="/projects">See selected work</Link><a className="arrow-link" href="/assets/Owoeye%20Olajumoke%E2%80%99s%20CV.docx" target="_blank">View CV <span>↗</span></a></div>
         </div>
         <div className="hero-statement" aria-label="Data with purpose"><span className="star">✦</span><p>data<br /><i>with</i><br />purpose</p><span className="orbit orbit-one" /><span className="orbit orbit-two" /></div>
       </section>

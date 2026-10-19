@@ -38,7 +38,7 @@ export const projects: Project[] = [
     shortDescription: "An evidence-aware workflow for reviewing risk signals in credit applications.",
     overview: "An AI-assisted investigation concept designed to help credit officers review applications, transactions, supporting documents, and credit policies for risk indicators and inconsistencies.",
     tools: ["Product requirements", "Data sourcing", "Research", "Evidence-grounded workflows"],
-    role: "Product requirements documentation, data sourcing, and defining evidence requirements for risk investigations.",
+    role: "Frontend, Product requirements documentation, data sourcing, defining evidence requirements for risk investigations and overall integration of the project.",
     accent: "sage",
     status: "Featured",
     repositoryUrl: "https://github.com/tag-ecosystemai/c1-navigators-project-3.git"

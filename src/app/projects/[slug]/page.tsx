@@ -18,7 +18,6 @@ export default async function ProjectPage({ params }: { params: Promise<{ slug: 
       {project.metrics && <section><p className="eyebrow">EVALUATION</p><div className="metric-row">{project.metrics.map((metric) => <div key={metric.label}><strong>{metric.value}</strong><span>{metric.label}</span></div>)}</div></section>}
     </div>
     <div className="project-actions">
-      {/* EDIT HERE: project.repositoryUrl is set in src/data/projects.ts. */}
       {project.repositoryUrl && project.repositoryUrl !== "#" ? <a className="button" href={project.repositoryUrl} target="_blank" rel="noreferrer">View repository ↗</a> : <span className="project-link muted-link">Repository link coming soon</span>}
       {project.demoUrl && <a className="arrow-link" href={project.demoUrl} target="_blank" rel="noreferrer">Open live demo ↗</a>}
     </div>
